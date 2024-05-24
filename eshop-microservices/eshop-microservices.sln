@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catalog.API", "..\src\Servi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlocks", "BuildingBlocks", "{4232E03D-79DE-4168-8464-EFB41AF8ED5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingBlocks", "..\src\BuildingBlocks\BuildingBlocks\BuildingBlocks.csproj", "{86139D51-6223-4E84-B482-D590E46ECADA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuildingBlocks", "..\src\BuildingBlocks\BuildingBlocks\BuildingBlocks.csproj", "{86139D51-6223-4E84-B482-D590E46ECADA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
